@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir Han Mamak</h1>
 <h3 align="center">For +3 years, I have been doing research and learning on the subjects that I am curious about with my own efforts. I develop myself in software languages, game engines, some design applications.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://uploads.toptal.io/blog/image/92295/toptal-blog-image-1459426983370-1fc070dd29272b79bda1f255e384ff46.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhanmamak&label=Profile%20views&color=0e75b6&style=flat" alt="emirhanmamak" /> </p>
 
 - 🔭 I’m currently working on [RPG-Mamak-Unity](https://github.com/EmirHanMamak/RPG-Mamak-Unity)
