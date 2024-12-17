@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emir Han Mamak</h1>
-<h3 align="center">For +4 years, I have been doing research and learning on the subjects that I am curious about with my own efforts. I develop myself in software languages, game engines, some design applications.</h3>
+<h3 align="center">For over three years, I have been researching and studying diverse 
+areas of game development. My proficiency extends to software languages such as C# and C++, 
+Unity Game Engine, OOP and Design Patterns. I am a highly effective communicator, committed to professional development, and fluent in English. Instead of spending time obtaining a bachelor's degree, I used that time to improve myself for the game development industry.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads.toptal.io/blog/image/92295/toptal-blog-image-1459426983370-1fc070dd29272b79bda1f255e384ff46.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhanmamak&label=Profile%20views&color=0e75b6&style=flat" alt="emirhanmamak" /> </p>
 
